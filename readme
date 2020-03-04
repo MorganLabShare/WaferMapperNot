@@ -1,0 +1,9 @@
+WaferMapper is a set of Matlab scripts originally developed by Ken Hayworth to direct a scanning electron microscope to 
+image of libraries of ultrathin sections cut with is automatic tape collecting microtome (ATUM). Josh Morgan and others 
+in the laboratory of Jeff Lichtman contributed to the further development of this code (see Hayworth et. al. 2016, 
+Imaging ATUM ultrathin section libraries with WaferMapper: a multi-scale approach to EM reconstruction of neural circuits, 
+Frontiers in Neural Circuits). 
+
+
+
+
